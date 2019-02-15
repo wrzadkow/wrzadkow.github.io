@@ -16,7 +16,7 @@ Physical Review A 96 (3), 032319, 2017
 
 **A New Quaternion Color Image Watermarking Algorithm**  
 Wojciech Rządkowski, Kajetana Snopek  
-8th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems  
+8th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems (IDAACS), 2015  
 [paper](https://ieeexplore.ieee.org/document/7340737)
 
 **On some connections between the Gompertz function and special numbers**  
