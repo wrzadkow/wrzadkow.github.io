@@ -24,4 +24,4 @@ Grzegorz Rządkowski, Wojciech Rządkowski, Paweł Wójcicki
 Journal of Nonlinear Mathematical Physics 22 (3), 374-380, 2015  
 [paper](https://www.tandfonline.com/doi/abs/10.1080/14029251.2015.1079419), [arXiv preprint](https://arxiv.org/abs/1511.03070)
 
-The papers are also listed on my [Google Scholar profile](https://scholar.google.com/citations?user=ei-6X2cAAAAJ)
+The papers are also listed on my [Google Scholar profile](https://scholar.google.com/citations?user=ei-6X2cAAAAJ).
