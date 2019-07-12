@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+**Detecting hidden and composite orders in layered models via machine learning**  
+Wojciech Rządkowski, Nicolò Defenu, Silvia Chiacchiera, Andrea Trombettoni, Giacomo Bighin  
+[arXiv preprint](https://arxiv.org/abs/1907.05417)
+
 **Effect of a magnetic field on molecule–solvent angular momentum transfer**  
 Wojciech Rządkowski, Mikhail Lemeshko  
 The Journal of chemical physics 148 (10), 104307, 2018  
