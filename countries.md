@@ -8,6 +8,7 @@ exclude: true
 Andorra  
 Austria  
 Bulgaria  
+Croatia  
 Czech Republic  
 France  
 Germany  
