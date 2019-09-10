@@ -10,7 +10,7 @@ Hello!
 
 My name is Wojciech Rządkowski. 
 
-Currently I am a PhD Researcher at the [Institute of Science and Technology Austria](http://ist.ac.at). I am part of the [Lemeshko Group](http://lemeshko.pages.ist.ac.at). My current scope of work concerns both analytic and numerical approaches to impurity problems with special focus on the recently theorized [angulon quasiparticle](https://physicsworld.com/a/meet-the-angulon-a-new-quasiparticle-found-in-superfluid-helium/).
+Currently I am a PhD Researcher at the [Institute of Science and Technology Austria](http://ist.ac.at). I am part of the [Lemeshko Group](http://lemeshko.pages.ist.ac.at). My current scope of work concerns analytic and machine learning approaches to quantum physics problems with special focus on the recently theorized [angulon quasiparticle](https://physicsworld.com/a/meet-the-angulon-a-new-quasiparticle-found-in-superfluid-helium/) and phase diagram reconstruction.
 
 The best way to contact me is by email: wojciech.rzadkowski _at_ ist.ac.at
 
