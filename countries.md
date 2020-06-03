@@ -9,6 +9,7 @@ Andorra
 Austria  
 Bulgaria  
 Croatia  
+Cyprus  
 Czech Republic  
 Denmark  
 France  
