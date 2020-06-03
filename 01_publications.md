@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+**Shear-induced ordering in systems with competing interactions: A machine learning study**  
+Jakub Pękalski, Wojciech Rządkowski, Athanassios Z. Panagiotopoulos  
+[paper](https://aip.scitation.org/doi/full/10.1063/5.0005194%40jcp.2020.MACH2020.issue-1), [arXiv preprint](https://arxiv.org/abs/2002.07294)
+
 **Detecting hidden and composite orders in layered models via machine learning**  
 Wojciech Rządkowski, Nicolò Defenu, Silvia Chiacchiera, Andrea Trombettoni, Giacomo Bighin  
 [arXiv preprint](https://arxiv.org/abs/1907.05417)
