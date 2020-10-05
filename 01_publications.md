@@ -3,14 +3,15 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+**Detecting composite orders in layered models via machine learning**  
+Wojciech Rządkowski, Nicolò Defenu, Silvia Chiacchiera, Andrea Trombettoni, Giacomo Bighin  
+New Journal of Physics 22, 093026, 2020  
+[paper](https://iopscience.iop.org/article/10.1088/1367-2630/abae44) [arXiv preprint](https://arxiv.org/abs/1907.05417)
 
 **Shear-induced ordering in systems with competing interactions: A machine learning study**  
 Jakub Pękalski, Wojciech Rządkowski, Athanassios Z. Panagiotopoulos  
+The Journal of Chemical Physics 152, 204905, 2020  
 [paper](https://aip.scitation.org/doi/full/10.1063/5.0005194%40jcp.2020.MACH2020.issue-1), [arXiv preprint](https://arxiv.org/abs/2002.07294)
-
-**Detecting hidden and composite orders in layered models via machine learning**  
-Wojciech Rządkowski, Nicolò Defenu, Silvia Chiacchiera, Andrea Trombettoni, Giacomo Bighin  
-[arXiv preprint](https://arxiv.org/abs/1907.05417)
 
 **Effect of a magnetic field on molecule–solvent angular momentum transfer**  
 Wojciech Rządkowski, Mikhail Lemeshko  
