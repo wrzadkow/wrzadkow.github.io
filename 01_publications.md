@@ -3,6 +3,10 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+**Artificial neural network states for non-additive systems**  
+Wojciech Rządkowski, Mikhail Lemeshko, Johan H. Mentink  
+[arXiv preprint](https://arxiv.org/abs/2105.15193)
+
 **Detecting composite orders in layered models via machine learning**  
 Wojciech Rządkowski, Nicolò Defenu, Silvia Chiacchiera, Andrea Trombettoni, Giacomo Bighin  
 New Journal of Physics 22, 093026, 2020  
